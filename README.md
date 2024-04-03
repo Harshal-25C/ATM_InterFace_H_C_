@@ -4,16 +4,16 @@
 
 ## Features :
 
-- User Registration: Users can register by providing their name, username, password, and account number.
-- User Authentication: Registered users can log in using their username and password.
+- User Registration : Users can register by providing their name, username, password, and account number.
+- User Authentication : Registered users can log in using their username and password.
 ```bash
-Transactions:
+Transactions :
     Withdraw : Users can withdraw funds from their account.
     Deposit : Users can deposit funds into their account.
     Transfer : Users can transfer funds to other accounts.
 ```
-- Check Balance: Users can check their account balance.
-- Transaction History: Users can view their transaction history.
+- Check Balance : Users can check their account balance.
+- Transaction History : Users can view their transaction history.
 
 ## Usage :
 
