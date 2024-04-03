@@ -45,7 +45,7 @@ Transactions:
 
 ## Dependencies :
 
-- Java Development Kit (JDK)
+ **Download JDK** : [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#java8).
 
 ## Contributing :
 
