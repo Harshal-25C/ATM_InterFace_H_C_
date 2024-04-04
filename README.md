@@ -15,33 +15,6 @@ Transactions :
 - Check Balance : Users can check their account balance.
 - Transaction History : Users can view their transaction history.
 
-## Usage :
-
-1. Clone the repository :
-
-    ```bash
-    git clone https://github.com/Harshal-25C/ATM-Server.git
-    ```
-
-2. Navigate to the project directory :
-
-    ```bash
-    cd ATM-Server
-    ```
-
-3. Compile the Java files :
-
-    ```bash
-    javac Task_3.java
-    ```
-
-4. Run the application :
-
-    ```bash
-    java Task_3
-    ```
-
-5. Follow the on-screen instructions to use the ATM server.
 
 ## Dependencies :
 
