@@ -20,6 +20,7 @@ Transactions :
 
  **Download JDK** : [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#java8).
 
+## LinkdIn post link : [ https://www.linkedin.com/posts/harshal-choudhary-a75117259_javadevelopment-oasisinfobyte-atm-activity-7181562438947856384-9bjx?utm_source=share&utm_medium=member_desktop ].
 
 ## Author :
 
